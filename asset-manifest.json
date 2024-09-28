@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AandN-group/static/css/main.d48760d1.css",
+    "main.js": "/AandN-group/static/js/main.620135db.js",
+    "static/media/ali.jpg": "/AandN-group/static/media/ali.4a30d4b4dd7630f843ac.jpg",
+    "static/media/nima.jfif": "/AandN-group/static/media/nima.203197d541c807202be0.jfif",
+    "index.html": "/AandN-group/index.html",
+    "main.d48760d1.css.map": "/AandN-group/static/css/main.d48760d1.css.map",
+    "main.620135db.js.map": "/AandN-group/static/js/main.620135db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48760d1.css",
+    "static/js/main.620135db.js"
+  ]
+}
