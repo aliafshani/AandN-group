@@ -12,6 +12,7 @@ export const App = () => {
         <h2 className='text-4xl mt-10 font-bold'>coming soon ...</h2>
       </div>
       <Profile />
+      <Profile2 />
     </div>
   )
 }
