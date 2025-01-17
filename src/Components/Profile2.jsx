@@ -5,7 +5,8 @@ import {
   FaGithub,
   FaLinkedin,
 } from "react-icons/fa";
-import ali from "./../images/ali.jpg";
+import { FaXTwitter } from "react-icons/fa6";
+
 import nima from "./../images/nima.jfif";
 
 const Profile2 = ({ img, about, medias }) => {
@@ -69,8 +70,8 @@ const Profile2 = ({ img, about, medias }) => {
           <a className="logos" href="https://t.me/NimaHmz_0">
             <FaTelegramPlane className="text-sky-400 text-6xl" />
           </a>
-          <a className="logos" href="https://www.instagram.com/nima_hmz_/">
-            <FaInstagram className="text-rose-600 text-6xl" />
+          <a className="logos" href="https://x.com/hmzNIma/">
+            <FaXTwitter className="dark:text-white text-black text-6xl" />
           </a>
           <a className="logos" href="https://github.com/Nima-Hmz">
             <FaGithub className="dark:text-white text-black text-6xl" />
